@@ -1,3 +1,3 @@
 # Card com musica
-Aprendendo o git
+Aprendendo o git, 
 aprendi a fazer cards e colocar músicas
